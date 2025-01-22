@@ -1,0 +1,15 @@
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/bin/Debug/net8.0/binary_search_example
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/bin/Debug/net8.0/binary_search_example.deps.json
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/bin/Debug/net8.0/binary_search_example.runtimeconfig.json
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/bin/Debug/net8.0/binary_search_example.dll
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/bin/Debug/net8.0/binary_search_example.pdb
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.GeneratedMSBuildEditorConfig.editorconfig
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.AssemblyInfoInputs.cache
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.AssemblyInfo.cs
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.csproj.CoreCompileInputs.cache
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.sourcelink.json
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.dll
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/refint/binary_search_example.dll
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.pdb
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/binary_search_example.genruntimeconfig.cache
+/home/alife-echo/RiderProjects/algorithms/binary_search/binary_search_example/binary_search_example/obj/Debug/net8.0/ref/binary_search_example.dll
